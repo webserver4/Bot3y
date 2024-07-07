@@ -1,1 +1,2 @@
-FROM admin44449999/leechbot1:latest 
+FROM admin44449999/toy:latest 
+CMD ["bash","start.sh"]
